@@ -1,0 +1,14 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# Claude Code (local config)
+.claude/
+CLAUDE.md
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+.tmp/
